@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, serif;
+background-color: #8fc0db;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #0056b3;
+}
+
+audio, video {
+    margin: 10px 0;
+    display: block;
+    max-width: 100%;
+}
+img {
+    max-width: 45%; 
+    height: auto; 
+	    display: block;
+	margin: 10px auto;
+}
